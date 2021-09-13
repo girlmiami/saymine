@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "97640417122",
+    "project_id": "mba-referral-groups-of-india",
+    "storage_bucket": "mba-referral-groups-of-india.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97640417122:android:c602060c4753b216e08e3b",
+        "android_client_info": {
+          "package_name": "com.abhinav.mbaref"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97640417122-7pffvujitt4v2rho501ek5eg9evsvqtg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinav.mbaref",
+            "certificate_hash": "292b226ba02ddd5e46a9d15f43e389ed720f2de6"
+          }
+        },
+        {
+          "client_id": "97640417122-g7kg7fdor9052dt9ihgi0cvfleq7qi8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA379Tq15NPjk-pcMuWCdzX8Ivv4GD8pe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97640417122-g7kg7fdor9052dt9ihgi0cvfleq7qi8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97640417122-da8kuh62a5rbea0odahu5jmvru280l14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abhinav.mbaref"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97640417122:android:6287b748c1ca11c8e08e3b",
+        "android_client_info": {
+          "package_name": "com.abhinav.saymine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97640417122-f7juhiq4q9dhqtq0ilu2e61qt465pmoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinav.saymine",
+            "certificate_hash": "292b226ba02ddd5e46a9d15f43e389ed720f2de6"
+          }
+        },
+        {
+          "client_id": "97640417122-g7kg7fdor9052dt9ihgi0cvfleq7qi8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA379Tq15NPjk-pcMuWCdzX8Ivv4GD8pe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97640417122-g7kg7fdor9052dt9ihgi0cvfleq7qi8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97640417122-da8kuh62a5rbea0odahu5jmvru280l14.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abhinav.mbaref"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
